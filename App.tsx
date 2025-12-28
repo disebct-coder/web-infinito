@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './components/Header';
-import Calculator from './components/Calculator';
-import Background from './components/Background';
+import Header from './components/Header.tsx';
+import Calculator from './components/Calculator.tsx';
+import Background from './components/Background.tsx';
 
 const App: React.FC = () => {
   return (
